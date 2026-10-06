@@ -307,6 +307,11 @@ Each channel file **actually probes** its candidate backends in order (not just 
 
 [twitter-cli](https://github.com/public-clis/twitter-cli) · [rdt-cli](https://github.com/public-clis/rdt-cli) · [xhs-cli](https://github.com/jackwener/xiaohongshu-cli) · [bili-cli](https://github.com/public-clis/bilibili-cli) · [yt-dlp](https://github.com/yt-dlp/yt-dlp) · [Jina Reader](https://github.com/jina-ai/reader) · [Exa](https://exa.ai) · [mcporter](https://github.com/nicobailon/mcporter) · [feedparser](https://github.com/kurtmckee/feedparser) · [mcp-server-linkedin](https://github.com/stickerdaniel/linkedin-mcp-server)
 
+## Sandboxed workflows
+
+For isolated shell-based source collection with NVIDIA OpenShell, see the
+[OpenShell integration guide](openshell.md).
+
 ## Contact
 
 - 📧 **Email:** pnt01@foxmail.com
